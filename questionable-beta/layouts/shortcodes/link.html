@@ -1,0 +1,6 @@
+{{ if .Get 0}}
+  <i class="{{ range .Params }}{{ . }} {{ end }}"></i>
+{{ else }}
+  <span class="shortcode-error">Shortcode usage: &lbrace;&lbrace;&lt; awesome 
+  "fas fa-external-link" &gt;&rbrace;&rbrace;</span>
+{{ end }}
