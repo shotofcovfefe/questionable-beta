@@ -8,9 +8,8 @@ hidelanguage = true
   name = "Andy"
 +++
 
-__Questionable Beta__ is a blog about climbing and other such stuff by a perpetually mediocre climber. 
+__Questionable Beta__ is a simple blog about climbing and other such stuff, maintained by an enthusiastic but ultimately mediocre climber. 
 
-Come for the stream of consciousness style outlet of sketchy advice and sketchier opinions. 
+Weary traveller, whilst I won't offer you tea or ice cream, feel free to entertain my sketchy advice and sketchier takes. 
 
-Stay for the memes, if any. 
-
+Onwards, upwards, et al. 

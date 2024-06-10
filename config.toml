@@ -1,4 +1,4 @@
-baseurl      = "https://shotofcovfefe.github.io/questionable-beta/"
+baseurl      = "https://questionable-beta.com"
 title        = "Questionable Beta"
 languageCode = "en-us"
 theme        = "hello-4s3ti"
@@ -89,7 +89,7 @@ paginate     = 10
 
     topText = []
     bottomText = [
-      "A personal blog by <b>Andy</b>"
+      "A blog made with 🐝 by <b>Andy</b>"
     ]
 
   [params.portrait]
