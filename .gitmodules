@@ -3,8 +3,5 @@
     url = https://github.com/4s3ti/hugo-theme-hello-4s3ti.git
 
 [submodule "themes/ink-free"]
-    path = themes/ink-free
-    url = https://github.com/knadh/hugo-ink.git
-
-
-	
+	path = themes/ink-free
+	url = https://github.com/knadh/hugo-ink.git
