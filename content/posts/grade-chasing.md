@@ -1,6 +1,6 @@
 +++
-title = "#1 Grade Chasing."
-description = "Hello, World! 🐢 Welcome to this here tiny corner of the interwebs. Without  kick things off, here's Sunday scaries energy post with working title 'Fear and loathing in East London'."
+title = "#1 Grade Chasing"
+description = "Hello, World! 🐢 Welcome to this here tiny corner of the interwebs. To kick things off, here's an overly reflective post about my relationship with climbing and chasing grades, originally with working title 'Fear and loathing in East London'."
 type = ["posts","post"]
 tags = [
     "climbing",

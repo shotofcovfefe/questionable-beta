@@ -12,4 +12,4 @@ __Questionable Beta__ is a simple blog about climbing and other such stuff, main
 
 Weary traveller, whilst I won't offer you tea or ice cream, feel free to entertain my sketchy advice and sketchier takes. 
 
-Onwards, upwards, et al. 
+Onwards, upwards, etc. 
