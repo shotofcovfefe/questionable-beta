@@ -1,0 +1,9 @@
+public/
+resources/_gen/
+node_modules/
+*.bak
+*.swp
+.DS_Store
+
+# Output directory
+public/

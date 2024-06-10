@@ -1,0 +1,11 @@
+base_url = "https://example.com"  # Update with your site's URL
+theme = "apollo"
+title = "My Zola Site"
+description = "A site built with Zola and Apollo theme"
+default_language = "en"
+paginate_by = 5
+
+# Define taxonomies as a list of tables
+taxonomies = [
+    {name = "tags"}
+]
