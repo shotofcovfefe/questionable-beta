@@ -4,11 +4,15 @@ languageCode = "en-us"
 theme        = "hello-4s3ti"
 paginate     = 10
 
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02"
+
+  # Google Analytics 4
+  GoogleAnalyticsID = "G-DNTW6BGD17"
 
   # Home page title
   homeTitle = "Questionable Beta"
@@ -113,7 +117,7 @@ paginate     = 10
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "questionable beta"
+      logoText = "?β"
       logoHomeLink = "/"
       logoCursorColor    = "#67a2c9"
       logoCursorAnimate  = "2s"
