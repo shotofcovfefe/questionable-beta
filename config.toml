@@ -1,5 +1,5 @@
-baseurl      = "localhost"
-title        = "My Blog"
+baseurl      = "https://questionable-beta.com"
+title        = Questionable Beta"
 languageCode = "en-us"
 theme        = "hello-4s3ti"
 paginate     = 10
@@ -41,7 +41,7 @@ paginate     = 10
   # There are a lot of buttons preconfigured. If you want to change them,
   # generate the buttons here: https://sharingbuttons.io
   # and add them into your own `layouts/partials/sharing-buttons.html`
-  #
+  # 
   enableSharingButtons = true
 
   # Global language menu
