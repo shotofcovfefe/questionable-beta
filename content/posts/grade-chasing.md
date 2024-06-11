@@ -41,13 +41,15 @@ If I’ve learnt anything in the past 6 months of self imposed exile from the wo
 
 ### 🪃 Just one more grade
 
-Ask yourself: if you see someone send a route you're struggling with, despite any outward reaction, does it hit more as inspiring or discouraging? To me, climbing has always been about good energy people celebrating one another's wins, but that doesn't mean that people don't feel schadenfreude.  
+Ask yourself: if you see someone send a route you're struggling with, despite any outward reaction, does it hit more as inspiring or discouraging? To me, climbing has always been about good energy people celebrating one another's wins, but that doesn't mean that people don't feel schadenfreude. 
 
-If you're the type of person who ties the success of a climbing session to how many hard climbs you send -- or don't send -- you'll just be frustrated. If you're the type of person who compares themselves too closely to other climbers, you'll just be frustrated. You'll eventually get demotivated and fade from the scene. 
+> _Please fail at the same crux point that I did_ 🤞
 
-In spite of your own ego, other climbers aren’t nearly petty enough to conflate the highest grade you’ve ever climbed for how they should treat you. Optimising for grades is fine but if that's the core focus then you're missing the point. 
+If you tie the success of a climbing session to how many hard climbs you send -- or don't send -- you'll end up frustrated. If you're the type of person who compares themselves too closely to other climbers, you'll just be frustrated. You'll demotivate yourself and fade from the scene. 
 
-Thinking back to the Real World™. Barring those closest to you, **folks are generally apathetic towards your latest life milestone**. They’re too busy worrying about themselves to fill precious mental real estate with any of your successes. Enjoy any well earned pat on the back while it lasts. Just don’t expect it to sustain your mental wellbeing for more than a hot beat. 
+In spite of your own ego, folks aren’t nearly petty enough to conflate the highest grade you’ve ever climbed for how they should treat you. Optimising for grades is fine but if that's the core focus then you're missing the point. 
+
+Back to the Real World™. Barring those closest to you, **people are generally apathetic towards your latest life milestone**. They’re rightly too busy worrying about themselves to fill precious mental real estate with any of your wins. Enjoy the pat on the back while it lasts but don’t expect it to sustain your mental wellbeing for more than a hot beat. 
 
 ---
 
