@@ -46,7 +46,9 @@ Great idea. But we can't do the same song, that would be even lamer than doing t
 
 ---
 
-And so it goes. Here's my lyrical retelling of an old classic, repurposed for climbing:
+Sigh, I guess so. 
+
+Here's my lyrical retelling of an old classic, repurposed to fit with the astute observation that all climber are really just masochists at heart:
 
 ```
 Chalk dust in my eyes and toes that are mangled,
@@ -58,6 +60,11 @@ Crimps that are tiny and slabs that are slipp'ry,
 Volumes that spin and routes that are tricky.
 Beta so sketchy, the dynos they spook me,
 I can't help but feel my sends are just flukey.
+
+Tape on my fingers and shoes full of odor,
+Faking that I'm more than just mediocre.
+Tearing my tendons on pocketed swings,
+These are a few of my masochist things.
 
 When the skin tears, when the pump hits,
 When I’m feeling beat,
