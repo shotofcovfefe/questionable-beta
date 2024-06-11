@@ -56,7 +56,7 @@ Slipping from slopers before the top mantle.
 Blisters and bruises, my forearm is cramping,
 These are a few of my masochist things.
 
-Crimps that are tiny and slabs so greasy,
+Crimps that are tiny and slabs very greasy,
 Volumes that spin, the footholds they tease me.
 Beta so sketchy, the dynos they're spooky,
 I can't help but feel my sends are just flukey.
