@@ -57,7 +57,7 @@ These are a few of my masochist things.
 Crimps that are tiny and slabs that are slipp'ry,
 Volumes that spin and routes that are tricky.
 Beta so sketchy, the dynos they spook me,
-I can't help but feel all my sends are just flukey.
+I can't help but feel my sends are just flukey.
 
 When the skin tears, when the pump hits,
 When I’m feeling beat,
@@ -69,9 +69,7 @@ And get back to abusing my feet.
 
 ---
 
-There's obviously a lot more to the song... but I should really get on to that life admin (Definitely not one of my favourite things).
+There's obviously a lot more to the song... but I should really get on to that life admin (definitely not one of my _favourite things_).
 
-
-
-
+Thanks for all the beta, until next time ✌️
 
