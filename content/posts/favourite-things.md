@@ -30,7 +30,7 @@ What was it again that brought me here, surely not the ever increasing queue of 
 > 
 > *No one*: ?
 
-Great idea. But we can't do the same song, that would be even lamer than doing this in the first place. 
+Great idea! But we can't do the same song, that would be even lamer than doing this in the first place. 
 
 > *Brain*: Do that one from the Sound of Music! 
 > 
@@ -56,9 +56,9 @@ Slipping from slopers before the top mantle.
 Blisters and bruises, my forearm is cramping,
 These are a few of my masochist things.
 
-Crimps that are tiny and slabs that are slipp'ry,
-Volumes that spin and routes that are tricky.
-Beta so sketchy, the dynos they spook me,
+Crimps that are tiny and slabs so greasy,
+Volumes that spin, the footholds they tease me.
+Beta so sketchy, the dynos they're spooky,
 I can't help but feel my sends are just flukey.
 
 Tape on my fingers and shoes full of odor,
@@ -69,7 +69,7 @@ These are a few of my masochist things.
 When the skin tears, when the pump hits,
 When I’m feeling beat,
 I simply remember my masochist things,
-And get back to abusing my feet. 
+And get back to abusing... my feet. 
 
 ...
 ```
