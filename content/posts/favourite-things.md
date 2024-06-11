@@ -7,7 +7,7 @@ tags = [
     "music",
     "life admin"
 ]
-date = "2024-06-10"
+date = "2024-06-11"
 categories = []
 series = ["Questionable Beta"]
 [ author ]
