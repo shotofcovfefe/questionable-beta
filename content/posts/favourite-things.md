@@ -48,7 +48,7 @@ Great idea! But we can't do the same song, that would be even lamer than doing t
 
 Sigh, I guess so. 
 
-Here's my lyrical retelling of an old classic, repurposed to fit with the astute observation that all climber are really just masochists at heart:
+Here's my lyrical retelling of an old classic, repurposed to fit with the astute observation that climbers are really just masochists at heart:
 
 ```
 Chalk dust in my eyes and toes that are mangled,
@@ -61,22 +61,22 @@ Volumes that spin, the footholds they tease me.
 Beta so sketchy, the dynos they're spooky,
 I can't help but feel my sends are just flukey.
 
-Tape on my fingers and shoes full of odor,
-Faking that I'm more than just mediocre.
+Tape on my fingers, my shoes' stinky odor,
+Faking I'm anything more than mediocre.
 Tearing my tendons on pocketed swings,
 These are a few of my masochist things.
 
 When the skin tears, when the pump hits,
 When I’m feeling beat,
 I simply remember my masochist things,
-And get back to abusing... my feet. 
+And get back to abusing... myyy feet. 
 
 ...
 ```
 
 ---
 
-There's obviously a lot more to the song... but I should really get on to that life admin (definitely not one of my _favourite things_).
+There's a to the song... but I reeally should be getting back to that life admin stuff (unsurprisingly, not one of my _favourite things_).
 
 Thanks for all the beta, until next time ✌️
 
