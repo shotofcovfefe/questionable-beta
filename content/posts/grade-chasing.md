@@ -1,6 +1,6 @@
 +++
 title = "#1. A grade chaser's guide to life"
-description = "Hello, World! Welcome to my tiny corner of the interwebs. What follows is a post about my relationship with chasing grades in climbing and otherwise life. It's more reflective than intended. Alternative working title: `Fear and loathing in East London`."
+description = "Hello, World! Welcome to my tiny corner of the interwebs. What follows is a post about my relationship with chasing grades in climbing and otherwise life. Alternative working title: `Fear and loathing in East London`."
 type = ["posts","post"]
 tags = [
     "climbing",
