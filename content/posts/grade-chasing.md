@@ -4,8 +4,8 @@ description = "Hello, World! Welcome to my tiny corner of the interwebs. What fo
 type = ["posts","post"]
 tags = [
     "climbing",
-    "community",
-    "crossroads"
+    "plateau",
+    "meaning"
 ]
 date = "2024-06-09"
 categories = []
