@@ -1,6 +1,6 @@
 +++
 title = "#2. These are a few of my masochist things"
-description = "Repurposing lyrics of classic songs to avoid all the things I desparately need to do."
+description = "Parodying lyrics of classic songs to avoid all the things I desparately need to do."
 type = ["posts","post"]
 tags = [
     "climbing",
@@ -48,7 +48,7 @@ Great idea! But we can't do the same song, that would be even lamer than doing t
 
 Sigh, I guess so. 
 
-Here's my lyrical retelling of an old classic, repurposed to fit with the astute observation that climbers are really just masochists at heart:
+Here's my lyrical retelling of an old classic, reimagined to fit with the astute observation that climbers are really just masochists at heart:
 
 ```
 Chalk dust in my eyes and toes that are mangled,
