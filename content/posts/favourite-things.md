@@ -80,3 +80,9 @@ There's more to the song... but I reeally should be getting back to that life ad
 
 Thanks for all the beta, until next time ✌️
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+{{< newsletter >}}

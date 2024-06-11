@@ -1,0 +1,76 @@
+<section id="newsletter-signup">
+    <form action="https://docs.google.com/forms/d/e/1FAIpQLSclucpCxkm24eTIJgtEm7J57N10VbWd8yCbBtWPNlJW2kgA8g/formResponse" method="POST" target="hidden_iframe" onsubmit="submitted=true;">
+        <div class="form-group">
+            <input type="email" name="entry.2016320973" placeholder="Email address 📣" required>
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+    <iframe name="hidden_iframe" style="display:none;" onload="if(submitted) { displayThankYouMessage(); }"></iframe>
+    <div id="thankYouMessage"><b>🙏</b></div>
+</section>
+
+<script>
+    var submitted = false;
+
+    function displayThankYouMessage() {
+        document.querySelector('form').style.display = 'none';
+        document.getElementById('thankYouMessage').style.display = 'block';
+    }
+</script>
+
+<style>
+    body {
+        /* background-color: #f4f4f4; */
+        margin: 0;
+        padding: 0;
+    }
+    #newsletter-signup {
+        /* background-color: #fff; */
+        max-width: 400px;
+        margin: 50px auto;
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .form-group {
+        display: flex;
+        align-items: center;
+    }
+    #newsletter-signup input[type="email"] {
+        flex: 1;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-right: none; /* This line has been added */
+        border-radius: 5px 0 0 5px;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    #newsletter-signup button {
+        margin: 0;
+        margin-left: 4px;
+        padding: 12px 20px;
+        border: none;
+        background-color: #f56c31;
+        color: #fff;
+        cursor: pointer;
+        border-radius: 0 5px 5px 0;
+    }
+
+    #newsletter-signup input[type="email"]:focus {
+        border-color: #f56c31;
+        outline: none;
+    }
+    #newsletter-signup button:hover {
+        background-color: #f56c31;
+    }
+    #thankYouMessage {
+        display: none;
+        text-align: center;
+    }
+
+
+
+
+
+
+</style>

@@ -36,8 +36,8 @@ paginate     = 10
   enableThemeToggle = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
-  keywords = "homepage, blog"
+  description = "A personal blog about climbing and other such stuff."
+  keywords = "homepage, blog, climbing, bouldering, blogging, writing, personal"
   images = [""]
 
   # Sharing buttons
@@ -91,15 +91,7 @@ paginate     = 10
     socialIcons = true
 
     topText = []
-    bottomText = [
-      "Made with 🐝 by <b>Andy</b>"
-    ]
-
-  [params.portrait]
-     path     = "/assets/img/logo.svg"
-     alt      = "Portrait"
-     maxWidth = "50px"
-
+    bottomText = ["Made with 🐝 by <b>Andy</b>"]
 
 
 [taxonomies]
@@ -109,8 +101,8 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "questionable beta"
-    subtitle = "A blog about climbing and stuff"
+    title = "?β"
+    subtitle = ""
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -120,10 +112,6 @@ paginate     = 10
       logoHomeLink = "/"
       logoCursorColor    = "#67a2c9"
       logoCursorAnimate  = "2s"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
 
   # And you can even create generic menu
   [[menu.main]]

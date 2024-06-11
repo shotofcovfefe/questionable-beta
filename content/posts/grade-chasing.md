@@ -62,3 +62,10 @@ If you’re anything like me and only have 14 years of "me time" left, don't was
 If you can do that, everything good will eventually follow. 
 
 ~~Maybe even a v7~~.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+{{< newsletter >}}
