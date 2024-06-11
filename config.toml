@@ -4,7 +4,6 @@ languageCode = "en-us"
 theme        = "hello-4s3ti"
 paginate     = 10
 
-
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -18,7 +17,7 @@ paginate     = 10
   homeTitle = "Questionable Beta"
 
   # Home subtitle of the index page.
-  homeSubtitle = "\"Just go up\""
+  homeSubtitle = "<i>\"Just go up\"</i>"
   
   # Adds a dark overlay over the background
   backgroundEffects = true

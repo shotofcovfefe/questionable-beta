@@ -23,7 +23,7 @@ I’m 30 years old. Generously, I have 50 to go. Some 20 of which will bear rela
 
 But now's not the time for existential dread. 
 
-No. Now’s the time to celebrate my sending a soft v5/6 today. Which, for someone **slap bang in the middle of the v4 plateau** spurs hope of a rise, like the proverbial phoenix from the ashes, up to the lofty heights of the next plateau that I’ve aspired towards ever since I tied my self-worth to climbing higher grades. Amongst other things. 
+No. Now’s the time to celebrate my sending a soft v5/6 today. Which, for someone **slap bang in the middle of the v4 plateau** spurs hope of a rise, like the proverbial phoenix from the ashes, up to the lofty heights of the next plateau that I’ve aspired towards ever since I tied my self-worth to climbing higher grades. /s
 
 ---
 
@@ -35,15 +35,13 @@ If you’ve ever prevailed over a long-term project boulder in the company of fr
 
 If I’ve learnt anything in the past 6 months of self imposed exile from the workplace (read: unemployment), it’s that a full life — a fulfilling life — on one axis straddles the line between what’s routine and what’s novel, and the other how much quality time you spend with people who “**spark joy**”. 
 
-**That’s why [climbing rocks](https://www.youtube.com/watch?v=SYfHtlsbQsE)**. Yes for the novelty and puzzle solving. Mostly, it’s a magnet for good people, people who are _outwardly_ encouraging and supportive. 
-
-_Inwardly_, however, there's emotional variation. 
+**That’s why [climbing rocks](https://www.youtube.com/watch?v=SYfHtlsbQsE)**. Yes for the novelty and puzzle solving. Mostly, it’s a magnet for good people, people who are _outwardly_ encouraging and supportive. _Inwardly_, though, there's emotional push and pull. 
 
 ---
 
 ### 🪃 Just one more grade
 
-Ask yourself: if you see someone send a route you're struggling with, despite any outward reaction, does it hit more as inspiring or discouraging? To me, climbing has always been about good energy people celebrating one anothers wins, but that doesn't mean that people don't feel schadenfreude.  
+Ask yourself: if you see someone send a route you're struggling with, despite any outward reaction, does it hit more as inspiring or discouraging? To me, climbing has always been about good energy people celebrating one another's wins, but that doesn't mean that people don't feel schadenfreude.  
 
 If you're the type of person who ties the success of a climbing session to how many hard climbs you send -- or don't send -- you'll just be frustrated. If you're the type of person who compares themselves too closely to other climbers, you'll just be frustrated. You'll eventually get demotivated and fade from the scene. 
 

@@ -8,8 +8,8 @@ hidelanguage = true
   name = "Andy"
 +++
 
-__Questionable Beta__ is a blog about climbing and other such stuff, maintained by an enthusiastic but ultimately mediocre climber based in London, England. 
-
 Weary traveller, whilst I can't offer you tea or scones, I invite you to entertain my sketchy musings and sketchier writing at your own leisure. 
+
+__Questionable Beta__ is a blog about climbing and other such stuff, maintained by an enthusiastic but ultimately mediocre boulderer based in London, England.
 
 Onwards, upwards, etc. 
