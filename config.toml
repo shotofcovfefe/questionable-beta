@@ -17,7 +17,7 @@ paginate     = 10
   homeTitle = "Questionable Beta"
 
   # Home subtitle of the index page.
-  homeSubtitle = "<i>\"Just go up\"</i>"
+  homeSubtitle = "\"Just go up\""
   
   # Adds a dark overlay over the background
   backgroundEffects = true
