@@ -8,7 +8,7 @@ hidelanguage = true
   name = "Andy"
 +++
 
-{{< image src="/logo-small.png" alt="Questionable Beta logo" >}}
+{{< image-center-small src="/logo-small.png" alt="Questionable Beta logo" >}}
 
 &nbsp;
 &nbsp;

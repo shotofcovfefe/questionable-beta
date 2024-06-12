@@ -46,7 +46,7 @@ Great idea! But we can't do the same song, that would be even lamer than doing t
 
 ---
 
-Sigh, I guess so. 
+Well, that does it then.
 
 Here's my lyrical retelling of an old classic, reimagined to fit with the astute observation that climbers are really just masochists at heart:
 
