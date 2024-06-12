@@ -39,7 +39,7 @@ If I’ve learnt anything in the past 6 months of self imposed exile from the wo
 
 ---
 
-### 🪃 Just one more grade
+### 🪃 Hedonic swings and roundabouts
 
 Ask yourself: if you see someone send a route you're struggling with, despite any outward reaction, does it hit you more as inspiring or discouraging? To me, climbing has always been about good energy people celebrating one another's wins, but that doesn't mean that people don't feel schadenfreude. 
 
@@ -50,6 +50,8 @@ If you tie the success of a climbing session to how many hard climbs you send --
 In spite of your own ego, folks aren’t nearly petty enough to conflate the highest grade you’ve ever climbed for how they should treat you. Optimising for grades is fine but if that's the core focus then you're missing the point. 
 
 Back to the Real World™. Barring those closest to you, **people are generally apathetic towards your latest life milestone**. They’re rightly too busy worrying about themselves to fill precious mental real estate with any of your wins. Enjoy the pat on the back while it lasts but don’t expect it to sustain your mental wellbeing for more than a hot beat. 
+
+{{< youtube HLNPMpQDiEI >}}
 
 ---
 
