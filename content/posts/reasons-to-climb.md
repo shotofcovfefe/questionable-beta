@@ -1,6 +1,6 @@
 +++
 title = "#3. Reasons to climb"
-description = ""
+description = "Number three will SHOCK you."
 type = ["posts","post"]
 tags = [
     "climbing",
@@ -13,11 +13,13 @@ series = ["Questionable Beta"]
   name = "Andy"
 +++
 
-Reasons why I climb:
+Clickbait titles for fun, profit, and SEO supremecy. 
+
+Anyway, reasons why I climb:
 
 1. ~~To get abs~~
 2. ~~To get a girlfriend~~
-3. To momentarily liberate myself from the tedious pressures of the daily grind whilst quashing the episodic day dreaming of cutting loose and starting a commune with my comrades in the Peak District by hanging from colourful plastic rocks. Also gym dogs. 
+3. To momentarily liberate myself from the tedious pressures of the daily grind whilst quashing episodic day dreaming of cutting loose and starting a commune with comrades in the Peak District by hanging from colourful plastic rocks. Also gym dogs. 
 
 &nbsp;
 

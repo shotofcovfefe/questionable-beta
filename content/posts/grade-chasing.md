@@ -29,19 +29,19 @@ No. Now’s the time to celebrate my sending a soft v5/6 today. Which, for someo
 
 ### ⛵️ A beta break from work
 
-I landed a job recently, which is cool. Even cooler would be sharing it to social media to harvest fake internet karma. But even then, would it ever compare to the feeling of sending a **sketchy foothold slab dyno with a mantle top out**? Doubtful, at least in the right context... 
+I landed a job recently, which is cool. Even cooler would be sharing it to social media to harvest fake internet karma. But even then, would it ever compare to the feeling of sending a **sketchy foothold slab dyno with a mantle top out**? 
 
-If you’ve ever prevailed over a long-term project boulder in the company of friends, all smiling from ear to ear, encouraging you, fist-bumps at the ready, pounding on the crash pad in a sincere show of cheer, you’ll know what I mean. That’s a **rapturous, wholesome sensation**, “a real kick”. 
+Picture this. Prevailing over a long-term project boulder in the company of amigos and amigas, beaming from ear to ear, aggressively bigging you up and yeeting cheer, fist-bumps at the ready, pounding on the crash pad. That’s a **rapturous, wholesome sensation**, “a real kick”. 
 
 If I’ve learnt anything in the past 6 months of self imposed exile from the workplace (read: unemployment), it’s that a full life — a fulfilling life — on one axis straddles the line between what’s routine and what’s novel, and the other how much quality time you spend with people who “**spark joy**”. 
 
-**That’s why [climbing rocks](https://www.youtube.com/watch?v=SYfHtlsbQsE)**. Yes for the novelty and puzzle solving. Mostly, it’s a magnet for good people, people who are _outwardly_ encouraging and supportive. _Inwardly_, though, there's emotional push and pull. 
+**That’s why [climbing rocks](https://www.youtube.com/watch?v=SYfHtlsbQsE)**. Yes for the novelty and puzzle solving. Mostly, it’s a magnet for fun people.
 
 ---
 
 ### 🪃 Just one more grade
 
-Ask yourself: if you see someone send a route you're struggling with, despite any outward reaction, does it hit more as inspiring or discouraging? To me, climbing has always been about good energy people celebrating one another's wins, but that doesn't mean that people don't feel schadenfreude. 
+Ask yourself: if you see someone send a route you're struggling with, despite any outward reaction, does it hit you more as inspiring or discouraging? To me, climbing has always been about good energy people celebrating one another's wins, but that doesn't mean that people don't feel schadenfreude. 
 
 > _Please fail at the same crux point that I did_ 🤞
 
