@@ -1,54 +1,58 @@
 +++
-title = "#4. When life gives you lemons, make Limoncello"
-description = "Day 11,220 of existing on this football we call Planet Earth, and London is as grey as ever"
+title = "#4. When life gives you lemons, etc."
+description = "Day 11,221 of being // Day -1 to the Euros // Day 0 of taking a rest day from sport."
 type = ["posts","post"]
 tags = [
     "climbing",
     "diary",
     "motivation"
 ]
-date = "2024-06-13"
+date = "2024-06-16"
 categories = []
 series = ["Questionable Beta"]
 [ author ]
   name = "Andy"
 +++
 
-### 🛌 Visions of Johanna
+Are the dog days of summer over already? We're fast approaching summer solstice but here in London every day is overcast. Sunnier days have been and gone, and my internal monologue is slightly more pessimistic than usual. 
 
-Are the dog days of summer over already? We're fast approaching summer solstice but here in London every day is overcast. Sunnier days have been and gone, and I'm noticing my internal monologue growing slightly gloomier by the week. 
-
-I know what you're thinking: if mood is causally related to the weather, why don't I just pack up shop and hitch a ride down to the Amalfi Coast, buy a plot of arable farmland, and cultivate lemons and olives? Well, duh. Because... Wait, that's honestly not a terrible idea. 
+I know what you're thinking: if my mood is causally related to the weather, why don't I just pack up shop and hitch a ride down to the Amalfi Coast, buy a plot of arable farmland, and cultivate lemons and olive groves? Well, duh, because... Wait. Honestly not a terrible idea. 
 
 \*sips imaginary Limoncello\* 
 
-Focus! This is meant to be a blog about bouldering. 
-
----
-
-### ☕️ How to look good naked
+Focus! 👉 This is meant to be a blog about *bouldering*. 👈
 
 \*sips actual coffee\* 
 
-I think I've hit capacity when it comes to climbing. From once a week for the past year -- broken finger and other injuries notwithstanding -- to 4 times in the past 6 days. I woke up during the night with my left arm painfully pulsing. No, not a heart attack. Just one too many mornings spent shamelessly abusing my body on the climbing wall so that one day I can retreat into the jungle to live with lemurs. 
+&nbsp;
 
-Sometimes I have to remind myself that I'm little more than a fragile bag of meat and bone, and that meat bags like me have their limits [...] which is precisely why, instead of climbing, I should cross-train by 1/ competing in 5-aside football tournements, 2/ abiding to a strict training plan to break a sub-19 5km, and 3/ slowly lean more into calisthenics and plyometrics. 
+Today marks the day that I found my body's climbing capacity; this old dyno bro has sprayed his last beta (well, until Sunday). 
 
-The sun coming back at least once this summer is inevitable (touch all the wood a thousand times over), so it logically follows that I'm a failure if I'm not `bEaCH b0dY rEAdÝ` before then. Half joking. Looking better naked is a noble aspiration, but it's definitely overrated. I'd rather be chonky and happy than ripped and miserable. Of course, I'd rather be ripped and happy, but my slim physique and the overcloud sky seem to suggest that's a ways away. 
+I've climbed on and off for about five years now. But injuries, that whole covid thingy, and waves of apathy contibuted to stagnation. During periods of consistency I'd say I only really climbed once or twice a week. By yesterday, I was up to 5 gym sessions in the 6 days. 
 
-At least the murky clouds are only temporary. 🪵  
+That this was my limit was obvious as of around 5am this morning, when I woke in the night to my left arm painfully pulsing. No, not a heart attack. Just one too many mornings spent shamelessly and physcially abusing my body -- see: [Masochist]({{< ref "/posts/002-favourite-things" >}} "Masochists") -- , so that one day I can retreat into the jungle to live with the lemurs. 
+
+
+Sometimes I have to remind myself that I'm little more than a fragile bag of meat and bone, and that meat bags like me have their limits.
+
+> *Irrational mind*: Which is precisely why, instead of climbing today, let's cross-train. Football, running, or that whole calisthenics/plyometrics jazz you fantasize about being good at, take your pick.
+> 
+> *Rational mind*: That's dumb. You'll just end up injured if you don't let your body recuperate. 
+> 
+> *Irrational mind*: Yeah but best to get `bEaCH b0dY rEAdÝ` for when the sun comes out again. 
+> 
+> *Rational mind*: Oh, shut it. 🙄
+
 
 ---
 
-### 🍋 Rumination on motivation
-
 Hot take. It's a net bad thing to be overly motivated. 
 
-Motivation, amongst other things, comes in waves and will fade away relatively quickly. The trick is to habitualise good habits to the point that they're second nature, otherwise what could've been part of your lifestyle will just become a flash in the pan period of your life that you'll be regretful for not keeping up. 
+Motivation, much like a cookie in my line of sight, is fleeting. The trick is to recast those healthy behaviours as habits to where they're second nature, otherwise what could've been part of your lifestyle will just become a flash-in-the-pan period of your life that you'll have regrets over for not keeping up. 
 
-It's certainy in the back of my head, that my current motivation spike towards climbing and "healthy living" generally won't transition into a routine part of long term existence. Time will tell. 
+It's honestly in the back of my head. That my current motivation spike towards climbing and "healthy living" generally won't transition into a routine part of long term existence. 
 
-In the end, worrying about it is fruitless, over-optimising for it is pointless. What counts is squeezing the most out of the lemons that life throws at you. 
+Time will tell, but in the end: worrying about it is fruitless, over-optimising for it is pointless. What counts is squeezing the most out of the lemons that life throws at you. 
 
 ... and turning them into Limoncello. 
 
