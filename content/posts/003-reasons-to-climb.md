@@ -19,7 +19,7 @@ Anyway, reasons why I climb:
 
 1. ~~To get abs~~
 2. ~~To get a girlfriend~~
-3. To momentarily liberate myself from the tedious pressures of the daily grind whilst quashing episodic day dreaming of cutting loose and starting a commune with comrades in the Peak District by hanging from colourful plastic rocks. Also gym dogs. 
+3. To momentarily liberate myself from the tedious pressures of the daily grind whilst simlutaneously quashing my episodic day dreaming of cutting loose from the modern world and starting a commune with allies and comrades up North in the Peak District. Also gym dogs. 
 
 &nbsp;
 
