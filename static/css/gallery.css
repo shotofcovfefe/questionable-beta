@@ -1,0 +1,30 @@
+/* Inherit the styling of the main content area */
+.photo-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -10px; /* Adjust margin as needed to match regular post spacing */
+
+    @media (max-width: 899px) {
+        margin: 0;
+    }
+}
+
+.photo-item {
+    padding: 10px; /* Adjust padding to control spacing between items */
+    flex: 1 1 calc(50% - 20px); /* Two items per row, adjust -20px to control spacing */
+    box-sizing: border-box; /* Ensures padding is included in the width calculation */
+
+    @media (max-width: 683px) {
+        flex: 1 1 100%; /* Full width on smaller screens */
+    }
+}
+
+.photo-item img {
+    width: 100%; /* Ensure images take the full width of their container */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 8px; /* Optional: add rounded corners */
+}
+
+.content, .post-content, .main-content {
+    text-align: left; /* Ensure all main content is left-aligned */
+}

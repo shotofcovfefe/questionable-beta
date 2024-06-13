@@ -1,5 +1,5 @@
 +++
-title = "#2. These are a few of my masochist things"
+title = "These are a few of my masochist things"
 description = "Parodying lyrics of classic songs to avoid all the things I desparately need to do."
 type = ["posts","post"]
 tags = [

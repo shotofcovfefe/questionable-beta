@@ -1,5 +1,5 @@
 +++
-title = "#3. Reasons to climb"
+title = "Reasons to climb"
 description = "Number three will SHOCK you."
 type = ["posts","post"]
 tags = [

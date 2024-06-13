@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {{ partial "head.html" . }}
+</head>
+<body>
+    {{ partial "header.html" . }}
+    <main class="post"> 
+        <div class="post-info">
+            <p>
+              <i class="fa-solid fa-clock"></i>
+              {{ i18n "readingTime" .Page.ReadingTime }}
+              <i class="fa-solid fa-clipboard"></i>
+              {{ i18n "wordCount" .Page.WordCount }}
+              {{ if .IsTranslated }}
+                {{ range (where $.Translations ".Lang" "!=" ".Lang") }}
+                    | <a href="{{ .Permalink }}"><span class="flag flag-icon flag-icon-{{ index $.Site.Data.langFlags (.Lang) }} flag-icon-squared"></span></a>
+                {{ end}}
+              {{ end }}
+            </p>
+            <p>
+              <i class="fa-solid fa-calendar-days"></i>
+              {{ if .Site.Params.dateformNumTime }}
+                {{ dateFormat .Site.Params.dateformNumTime .Date.Local }}
+              {{ else }}
+                {{ dateFormat "2006-01-02 15:04" .Date.Local }}
+              {{ end }}
+      
+              {{ if .Lastmod }} 
+                {{ if not (eq .Lastmod .Date )}}
+                  {{ if .Site.Params.dateformNumTime }}
+                    ({{ i18n "lastModified" }}: {{ dateFormat .Site.Params.dateformNumTime .Lastmod.Local }})
+                  {{ else }} 
+                    ({{ i18n "lastModified" }}: {{ dateFormat "2006-01-02 15:04" .Lastmod.Local }})
+                  {{ end }}
+                {{ end }}
+              {{ end }}
+            </p>
+            <p>
+            {{ partial "tags.html" .Params.tags }}
+            {{ partial "categories.html" . }}
+            </p>
+        </div>
+        <div class="content">
+            {{ .Content }}
+        </div>
+        
+    <div class="photo-container" id="lightgallery">
+        {{- $context := . -}}
+        
+        {{ $jpgImages := .Resources.Match "gallery/*.jpg" }}
+        {{ $jpegImages := .Resources.Match "gallery/*.jpeg" }}
+        {{ $pngImages := .Resources.Match "gallery/*.png" }}
+        {{ $webpImages := .Resources.Match "gallery/*.webp" }}
+
+        {{ $allImages := $jpgImages | append $jpegImages | append $pngImages | append $webpImages }}
+
+        {{- range $src := $allImages -}}
+            {{- $title := (replace .Title "gallery/" "") -}}
+
+            {{- $exifJson := $context.Resources.GetMatch (printf "%s.json" .Name) -}}
+
+            {{- $exif := slice -}}
+            {{- with $exifJson -}}
+                {{- with (index (.Content | unmarshal) 0) -}}
+                    {{- with .Title -}}{{- $title = . -}}{{- end -}}
+                    {{- with .Make2 -}}{{- $exif = $exif | append (printf "Make: %s" .) -}}{{- end -}}
+                    {{- with .Model -}}{{- $exif = $exif | append (printf "Camera: %s" .) -}}{{- end -}}
+                    {{- with .LensSpec -}}{{- $exif = $exif | append (printf "Lens: %s" .) -}}{{- end -}}
+                    {{- with .FocalLength -}}{{- $exif = $exif | append (printf "Focal length: %s" .) -}}{{- end -}}
+                    {{- with .FNumber -}}{{- $exif = $exif | append (printf "Aperture: ƒ/%.1f" .) -}}{{- end -}}
+                    {{- with .ExposureTime -}}
+                        {{- if eq (printf "%T" .) "float64" -}}
+                            {{- $exif = $exif | append (printf "Exposure time: %.1f s" .) -}}
+                        {{- else -}}
+                            {{- $exif = $exif | append (printf "Exposure time: %s s" .) -}}
+                        {{- end -}}
+                    {{- end -}}
+                    {{- with .ISO -}}{{- $exif = $exif | append (printf "ISO: %.0f" .) -}}{{- end -}}
+                {{- end -}}
+            {{- end -}}
+
+            <div class="photo-item" data-src="{{ .Permalink }}" data-sub-html="<h4>{{ $title }}</h4><p>{{ delimit $exif " | " }}</p>">
+                {{- $crop := default "smart" -}}
+                {{- $tinyw := printf "500x375 %s Lanczos q85" $crop -}}
+                {{- $smallw := printf "800x600 %s Lanczos q80" $crop -}}
+                {{- $mediumw := printf "1200x900 %s Lanczos q40" $crop -}}
+                {{- $largew := printf "1600x1200 %s Lanczos q30" $crop -}}
+
+                {{- $srcset := slice -}}
+
+                {{- $tiny := ($src.Fill $tinyw) -}}
+                {{- $srcset = $srcset | append (printf "%s 500w" $tiny.Permalink) -}}
+                {{- $img := dict "src" $tiny.RelPermalink "w" $tiny.Width "h" $src.Height -}}
+
+                {{- if and (ge $src.Width "800") (ne $src.MediaType.SubType "png") -}}
+                    {{- $small := ($src.Fill $smallw) -}}
+                    {{- $srcset = $srcset | append (printf "%s 800w" $small.Permalink) -}}
+                    {{- $img = dict "src" $small.RelPermalink "w" $small.Width "h" $small.Height -}}
+                {{- end -}}
+                {{- if and (ge $src.Width "1200") (ne $src.MediaType.SubType "png") -}}
+                    {{- $medium := ($src.Fill $mediumw) -}}
+                    {{- $srcset = $srcset | append (printf "%s 1200w" $medium.Permalink) -}}
+                {{- end -}}
+                {{- if and (ge $src.Width "1600") (ne $src.MediaType.SubType "png") -}}
+                    {{- $large := ($src.Fill $largew) -}}
+                    {{- $srcset = $srcset | append (printf "%s 1600w" $large.Permalink) -}}
+                {{- end -}}
+
+                {{- $sizes := "(min-width: 900px) 420px, (min-width: 684px) 310px, calc(100vw - 40px)" -}}
+
+                <a href="{{ .Permalink }}">
+                    <picture>
+                        <source type="{{ $src.MediaType }}" sizes="{{ $sizes }}" srcset='{{ delimit $srcset ", " }}'>
+                        <img loading="lazy" class="center"
+                             src="{{ $img.src }}" width="{{ $img.w }}" height="{{ $img.h }}" alt="{{ $title }}" />
+                    </picture>
+                </a>
+            </div>
+        {{ end }}
+    </div>
+    </main> 
+    
+    {{ partial "footer.html" . }}
+</body>
+</html>

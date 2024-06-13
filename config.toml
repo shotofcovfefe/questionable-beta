@@ -124,3 +124,9 @@ paginate     = 10
     name       = "About"
     url        = "about/"
     weight     = 10
+
+  [[menu.main]]
+    identifier = "gallery"
+    name       = "Gallery"
+    url        = "photos/"
+    weight     = 10
