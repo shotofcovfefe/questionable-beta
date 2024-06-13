@@ -16,7 +16,7 @@ series = ["Questionable Beta"]
 
 Are the dog days of summer over already? We're fast approaching summer solstice, but here in London every day is overcast. Sunnier days have been and gone, and my internal monologue is slightly more pessimistic than usual. 
 
-I know. If my mood actually causally related to the weather, why don't I just pack up shop and hitch a ride down to the Amalfi Coast, buy a plot of arable farmland, and cultivate lemon and olive groves? Well, duh... because... Wait. Honestly, not a terrible idea. 
+I know. If my mood really is causally tied to the weather, why don't I just pack up shop and hitch a ride down to the Amalfi Coast, buy a plot of arable farmland, and cultivate lemon and olive groves? Well, duh... because... Wait. Honestly, not a terrible idea. 
 
 \*sips Limoncello\* 
 
