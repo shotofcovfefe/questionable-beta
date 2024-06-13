@@ -1,5 +1,5 @@
 +++
-title = "Reasons to climb"
+title = "🦥 Reasons to climb"
 description = "Number three will SHOCK you."
 type = ["posts","post"]
 tags = [
@@ -25,10 +25,3 @@ Anyway, reasons why I climb:
 
 
 {{< image-center-medium src="/gym-dog.jpg" alt="Gym doggo" >}}
-
-&nbsp;
-
-
----
-
-{{< newsletter >}}

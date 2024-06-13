@@ -1,5 +1,5 @@
 +++
-title = "Test gallery (🚧)"
+title = "🚧 Test gallery (test)"
 description = "test"
 type = "photos"
 layout = "single"

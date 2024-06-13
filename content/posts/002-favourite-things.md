@@ -1,5 +1,5 @@
 +++
-title = "These are a few of my masochist things"
+title = "🎷 These are a few of my masochist things"
 description = "Parodying lyrics of classic songs to avoid all the things I desparately need to do."
 type = ["posts","post"]
 tags = [
@@ -79,10 +79,3 @@ And get back to abusing... myyy feet.
 There's more to the song... but I reeally should be getting back to that life admin stuff (unsurprisingly, not one of my _favourite things_).
 
 Thanks for all the beta, until next time ✌️
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-{{< newsletter >}}

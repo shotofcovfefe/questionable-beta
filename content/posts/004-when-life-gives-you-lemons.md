@@ -1,5 +1,5 @@
 +++
-title = "When life gives you lemons, etc."
+title = "🍋 When life gives you lemons, etc."
 description = "Day 11,221 of being // Day -1 to the Euros // Day 0 of taking a rest day from sport."
 type = ["posts","post"]
 tags = [
@@ -63,10 +63,3 @@ In the end, worrying about it all serves scant purpose. What counts is squeezing
 &nbsp;
 
 {{< image-center-medium src="/lemons.webp" alt="Amalfi lemons" >}}
-
-&nbsp;
-
-
----
-
-{{< newsletter >}}

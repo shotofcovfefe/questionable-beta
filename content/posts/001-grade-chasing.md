@@ -1,5 +1,5 @@
 +++
-title = "A grade chaser's guide to life"
+title = "🐢 A grade chaser's guide to life"
 description = "My relationship with chasing grades in climbing and otherwise life. Alternative working title: `Fear and loathing in East London`."
 type = ["posts","post"]
 tags = [
@@ -64,10 +64,3 @@ If you’re anything like me and only have 14 years of "me time" left, don't was
 If you can do that, everything good will eventually follow. 
 
 ~~Maybe even a v7~~.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-{{< newsletter >}}
