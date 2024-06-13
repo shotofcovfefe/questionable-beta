@@ -24,7 +24,3 @@
     height: auto; /* Maintain aspect ratio */
     border-radius: 8px; /* Optional: add rounded corners */
 }
-
-.content, .post-content, .main-content {
-    text-align: left; /* Ensure all main content is left-aligned */
-}
