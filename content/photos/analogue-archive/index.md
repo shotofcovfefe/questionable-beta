@@ -1,5 +1,5 @@
 +++
-title = "🎞️ From the vault: it's not you, it's me"
+title = "🎞️ From the vaults: it's not you, it's me"
 description = "An archive of freshly scanned photos and an unintentional love letter to my Nikon. Unapologetic to this post has absolutely zero overlap with climbing"
 type = "photos"
 layout = "single"
