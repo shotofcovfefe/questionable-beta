@@ -39,8 +39,8 @@ You'll no-doubt notice I have an "**artsy wankery**" style to my photography. Pa
 
 But **enough blathering and wittering**. 
 
-See below for a few of the photos that didn't come out too horribly. And to be clear, there were *a lot* of duds. I guesstimate every ~2/24 photos were up to par. I still have a few rolls to develop, so expect this gallery to increase at some point. 
+See below for a few of the photos that didn't come out too horribly. And to be clear, there were *a lot* of duds, an overwhelming majority à la Blair's general election landslide in '97. I still have a few rolls to develop, so expect this gallery to increase at some point. 
 
 Note #1: best to click through; the Javascript gallery I used relentlessly crops the previews. 
 
-Note #2: Kindly be patient. The photos here are collectively some 169MB. 
+Note #2: Kindly be patient. The photos here are collectively some 169MB.
