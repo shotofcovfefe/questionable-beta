@@ -1,6 +1,6 @@
 +++
 title = "🎞️ From the vaults: it's not you, it's me"
-description = "An archive of freshly scanned photos and an unintentional love letter to my Nikon. Unapologetic to this post has absolutely zero overlap with climbing"
+description = "An archive of freshly scanned photos and an unintentional love letter to my Nikon. Apologies in advance, this post has zilch to do with climbing."
 type = "photos"
 layout = "single"
 tags = [
@@ -14,7 +14,6 @@ series = ["Questionable Beta"]
 [ author ]
   name = "Andy"
 +++
-
 
 First, some background. 
 
@@ -42,4 +41,6 @@ You'll no-doubt notice I have an "**artsy wankery**" style to my photography. Pa
 
 See below for a few of the photos that didn't come out too horribly. And to be clear, there were *a lot* of duds. I guesstimate every ~2/24 photos were up to par. I still have a few rolls to develop, so expect this gallery to increase at some point. 
 
-Note: best to click through; the Javascript gallery I used relentlessly crops the previews. 
+Note #1: best to click through; the Javascript gallery I used relentlessly crops the previews. 
+
+Note #2: Kindly be patient. The photos here are collectively some 169MB. 
