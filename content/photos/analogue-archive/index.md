@@ -1,11 +1,12 @@
 +++
 title = "🎞️ From the vault: it's not you, it's me"
-description = "An archive of freshly scanned photos and a love letter to my Nikon. An unapologetic post that has absolutely zero to do with climbing"
+description = "An archive of freshly scanned photos and an unintentional love letter to my Nikon. Unapologetic to this post has absolutely zero overlap with climbing"
 type = "photos"
 layout = "single"
 tags = [
     "photography",
-    "analogue"
+    "analogue",
+    "diary"
 ]
 date = "2024-06-14"
 categories = []
