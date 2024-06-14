@@ -27,7 +27,7 @@ I enjoy film photography because, well, **I'm a ridiculous human** that likes ma
 
 So why even do it? Why not just **blitzscale a portfolio on my now retro iPhone 11 Pro**? Simple. Because scarcity, lack of feedback, delayed gratification, and general stress of failure force you to be more intentional. Each picture matters. You're forced to view the world in a different light. You mentally spotlight frames from within your line of sight. That mindset change is a fun spell to be under (I've since lost it).
 
-But frankly, as much as I enjoy the process, it's not a sustainable hobby. Taking and eventually seeing the pictures are where the dopamine hit happen. But I've spent several of the past several days slowly digitising film reel after film reel after film reel. **It can be therapeutic, mostly it's just wearisome**. 
+But frankly, as much as I enjoy the process, it's not a sustainable hobby. Taking and eventually seeing the pictures are where the dopamine hit happens. But then I've spent several of the past several days slowly digitising film reel after film reel after film reel. And that's after developing all the film using a makeshift darkroom (a zippable jacket) and a Paterson tank. **It *can* be therapeutic, mostly it's just wearisome**. 
 
 I've had my fun with analogue photography, I've **ventured down the rabbit hole and emerged a convert and cynic**. I've been obsessive with my Nikon, and other times shunned it long enough for it to grow a skin of dust. I feel I'm entering a period of the latter. "Farewell, not goodbye" and all that jazz. 
 
