@@ -17,11 +17,11 @@ series = ["Questionable Beta"]
 
 First, some background. 
 
-Back in March 2020, **when the world was about to end** and everyone along with their newly adpoted [cats](gallery/030-cats-002.jpg) decided that baking bread was the only sensible resolution, I purchased a 35mm SLR film camera (the sleek [Nikon F3](https://en.wikipedia.org/wiki/Nikon_F3), born -- like me -- in 1993 as per the [serial number](https://www.nicovandijk.net/serialF3.htm), and -- unlike me -- built like an absolute tank). 
+Back in March 2020, **when the world was about to end** and everyone along with their newly adpoted [cats](gallery/030-cats-002.jpg) decided that baking bread was the only sensible resolution, I purchased a 35mm SLR film camera; the sleek [Nikon F3](https://en.wikipedia.org/wiki/Nikon_F3) born -- like me -- in ['93](https://www.nicovandijk.net/serialF3.htm), and -- unlike me -- built like an absolute tank. 
 
-At the time I was living in New York City, and I didn't have a plan beyond wanting to document the Brave New World we'd reluctantly smashed into face (-mask) first. 
+At the time I was living in New York. There was no grand plan for my new mechanical homeboy, but I felt documenting the Brave New World we'd reluctantly smashed into face (-mask) first might be a reasonable way to ensure I wouldn't die of lockdown induced boredom.
 
-Fortunately, my newfound hobby wasn't as fleeting as I might have feared. The tactile device accompanied me on tens of trips across the US and Europe, and was as much a **steampunk extension of my right hand** as was my lucky blue baseball cap to my skull.
+Fortunately, my newfound hobby wasn't as fleeting as I might have feared. My tactile chunk of metal escorted me on tens of trips across the US and Europe, and was as much a **steampunk extension of my right hand** as was my lucky blue baseball cap to my head.
 
 I enjoy film photography because, well, **I'm a ridiculous human** that likes making things hard for myself: 
 * There's zero real-time feedback from the camera as to whether a picture will come out the way you hope. More often than is acceptable, pictures come out blurred, or over / under exposed, or with an accidental double exposure, or something similarly dumb. **I wear my tiny violin necklace with bitter pride**. 
