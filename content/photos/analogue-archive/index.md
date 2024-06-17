@@ -1,6 +1,6 @@
 +++
-title = "🎞️ From the vaults: it's not you, it's me"
-description = "An archive of freshly scanned photos and an unintentional love letter to my Nikon. Apologies in advance, this post has zilch to do with climbing."
+title = "🎞️ Photo journal #1: it's not me, it's you"
+description = "An archive of freshly scanned photos and an unintentional love letter to my Nikon. Fair warning, this post has precisely zilch to do with climbing."
 type = "photos"
 layout = "single"
 tags = [

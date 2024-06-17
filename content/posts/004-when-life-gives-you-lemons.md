@@ -1,5 +1,5 @@
 +++
-title = "🍋 When life gives you lemons, etc."
+title = "🍋 Climbing diary #2: When life gives you lemons, etc."
 description = "Day 11,221 of being // Day -1 to the Euros // Day 0 of taking a rest day from sport."
 type = ["posts","post"]
 tags = [

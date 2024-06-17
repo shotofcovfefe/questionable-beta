@@ -17,9 +17,9 @@ Welcome, weary traveller, to my little corner of the interwebs.
 
 Whilst I can't offer you tea or kinship, I invite you to entertain my sketchy musings and sketchier writing at your own leisure. 
 
-__Questionable Beta__ is a blog about climbing and other such stuff, maintained by an enthusiastic but ultimately pedestrian boulderer based in London, England.
+__Questionable Beta__ is a blog about climbing and other such things, maintained by an enthusiastic but ultimately pedestrian boulderer based in London, England.
 
-Onwards, upwards, etc. 
+Onwards, upwards, etc. Tinkety Tonk and down with mendacious sl*bs.
 
 &nbsp;
 

@@ -1,5 +1,5 @@
 +++
-title = "🐢 A grade chaser's guide to life"
+title = "🐢 Climbing diary #1: A grade chaser's guide to life"
 description = "My relationship with chasing grades in climbing and otherwise life. Alternative working title: `Fear and loathing in East London`."
 type = ["posts","post"]
 tags = [
