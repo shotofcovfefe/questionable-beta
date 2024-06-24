@@ -1,0 +1,47 @@
+#floating-bee {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none; /* Ensure it doesn't interfere with other elements */
+  z-index: 1000; /* Ensure it floats above other content */
+  display: none; /* Hide by default */
+}
+
+/* Show the SVG only on screens larger than 768px */
+@media (min-width: 1200px) {
+  #floating-bee {
+    display: block;
+  }
+}
+
+#bee {
+  /* Any additional styles for the bee */
+}
+
+#wing1 {
+  transform-origin: bottom left;
+  transform-box: fill-box;
+  opacity: 0.6;
+  animation: rotateBox1 0.15s infinite;
+}
+
+@keyframes rotateBox1 {
+  0% { transform: rotate(0deg); }
+  50% { transform: rotate(-60deg); }
+  100% { transform: rotate(0deg); }
+}
+
+#wing2 {
+  transform-origin: bottom left;
+  transform-box: fill-box;
+  opacity: 0.75;
+  animation: rotateBox2 0.15s infinite;
+}
+
+@keyframes rotateBox2 {
+  0% { transform: rotate(0deg); }
+  50% { transform: rotate(30deg); }
+  100% { transform: rotate(0deg); }
+}

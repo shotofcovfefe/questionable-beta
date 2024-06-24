@@ -20,7 +20,7 @@ It was clumsily done with **visible beta confusion** kicking in at the midpoint.
 
 But shucks, I did it. I want to put a pin in this specific send as a **happy milestone**, even though I'm conscious not to conflate my **lizard brain glee** with an actual ascendency in skill.
 
-Regardless, it got me wondering about the unspeakable possibility that I could be breaking out of a plateau. Within the space of the last month, I've been pushing **harder climbs at a higher rate** than before. 
+Still, it got me wondering about the unspeakable possibility that I could be breaking out of a plateau. Within the space of the last month, I've been pushing **harder climbs at a higher rate** than before. 
 
 My signature style leans towards **explosive pops and monkey swings**, drawing momentum to mask shortcomings in technique and finger strength. But the v7 was crimpy. It was static. It was a jumble of moves I tend to avoid because it forces me to confront weaknesses. 
 
