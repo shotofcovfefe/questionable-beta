@@ -39,7 +39,7 @@ The men's version which is slightly wider is a palettable blue, but they just do
 
 A frustrated voice shouts from the back of the room: "shut the heck up about your first world problems and get the damn shoes". 
 
-Touché. 
+Touché. Still, they're a bit too pink.
 
 
 &nbsp;
