@@ -60,7 +60,7 @@ paginate     = 10
   ReadmoreText = true
 
   # Hides ReadMore
-  hideReadMore = false
+  hideReadMore = true
 
   # Shows reding time
   ShowReadingTime = false

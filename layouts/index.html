@@ -59,13 +59,13 @@
                             </span>
                         {{ end }}
                         <div class="post-content">
-                            <!-- {{ with .Description }}
+                            {{ with .Description }}
                                 {{ . | markdownify }}
                             {{ else }}
                                 {{ if .Truncated }}
                                     {{ .Summary }}
                                 {{ end }}
-                            {{ end }} -->
+                            {{ end }}
                         </div>
                         {{ if not .Site.Params.hideReadMore }}
                             {{ if .Site.Params.ReadMoreText }}
@@ -80,7 +80,7 @@
                                 </div>
                             {{ end }}
                         {{ end }}
-                        
+
                         <hr>
                     </div> 
                 {{ end }}
