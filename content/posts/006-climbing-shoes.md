@@ -5,7 +5,7 @@ type = ["posts","post"]
 tags = [
     "climbing",
     "diary",
-    "motivation"
+    "gear"
 ]
 date = "2024-06-23"
 categories = []
