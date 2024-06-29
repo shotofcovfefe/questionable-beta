@@ -10,6 +10,9 @@ paginate     = 10
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02"
 
+  # Google Maps API
+  googleMapsAPIKey = "AIzaSyA_ZxOA57_Ccb_v7d1-rxZ5eMsXAg90y6o"
+
   # Google Analytics 4
   GoogleAnalyticsID = "G-DNTW6BGD17"
 
