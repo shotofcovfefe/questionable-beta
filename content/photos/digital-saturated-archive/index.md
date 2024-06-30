@@ -1,5 +1,5 @@
 +++
-title = "🌈 Photo journal #2: enter, stage right: colour!"
+title = "🌈 Photo journal #2: enter, stage right: colour"
 description = "A semi-random assortment from the archives to protest against my post-covid monochrome obsession."
 type = "photos"
 layout = "single"

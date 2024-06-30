@@ -1,5 +1,5 @@
 +++
-title = "🎞️ Photo journal #1: it's not me, it's you"
+title = "🎞️ Photo journal #1: it's not me, it's you."
 description = "An archive of freshly scanned photos and an unintentional love letter to my Nikon. Fair warning, this post has precisely zilch to do with climbing."
 type = "photos"
 layout = "single"

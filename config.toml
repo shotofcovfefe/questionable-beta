@@ -116,12 +116,6 @@ paginate     = 10
       logoCursorColor    = "#67a2c9"
       logoCursorAnimate  = "2s"
 
-  # And you can even create generic menu
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "/posts"
-
   [[menu.main]]
     identifier = "about"
     name       = "About"
@@ -129,7 +123,34 @@ paginate     = 10
     weight     = 10
 
   [[menu.main]]
+    identifier = "posts"
+    name = "▼ Posts"
+    url = "/posts"
+
+  [[menu.main]]
+    identifier = "all"
+    name       = "All posts"
+    url        = "/posts"
+    weight     = 10
+    parent     = "posts"
+
+  [[menu.main]]
+    identifier = "climbing"
+    name       = "Climbing"
+    url        = "/tags/climbing"
+    weight     = 10
+    parent     = "posts"
+
+  [[menu.main]]
+    identifier = "maps"
+    name       = "Maps"
+    url        = "/tags/maps/"
+    weight     = 10
+    parent     = "posts"
+
+  [[menu.main]]
     identifier = "gallery"
     name       = "Gallery"
-    url        = "photos/"
+    url        = "/photos/"
     weight     = 10
+    parent     = "posts"

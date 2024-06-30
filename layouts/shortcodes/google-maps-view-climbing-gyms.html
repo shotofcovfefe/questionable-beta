@@ -2,7 +2,7 @@
     <script>
         function initMap() {
             var map = new google.maps.Map(document.getElementById('map'), {
-                center: {lat: 34.639203, lng: -23.6001353},
+                center: {lat: 26.8172826, lng: 25.5844812},
                 zoom: 2,
                 styles: [
                     {
@@ -372,21 +372,27 @@
             });
             
             var markers = [
-                {lat: 51.47041, lng:-0.21513, title: 'Fulham Palace Cafe', url: 'https://maps.app.goo.gl/Fv1JTqANKjA2PK4d8'},
-                {lat: 51.51575, lng:-0.02277, title: 'e5 Poplar Bakehouse', url: 'https://maps.app.goo.gl/qpDE6aGhZvPnAkHj7'},
-                {lat: 51.51212, lng:-0.04109, title: 'The Yurt Café', url: 'https://maps.app.goo.gl/ePmSHQxhRYKP5Xgu6'},
-                {lat: 51.5334, lng:-0.04288, title: 'Pavilion Cafe Victoria Park', url: 'https://maps.app.goo.gl/hKjsjcTQsXsLx7qG7'},
-                {lat: 30.26881, lng:-97.72875, title: 'Try Hard Coffee Roasters', url: 'https://maps.app.goo.gl/z63a1vB86vHQXhGG9'},
-                {lat: 40.72509, lng:-73.97778, title: 'Ninth Street Espresso', url: 'https://maps.app.goo.gl/oCTfYdAioCe1ZTCHA'},
-                {lat: 25.04669, lng:121.51449, title: 'COFFEE TO (國家攝影文化中心門市)', url: 'https://maps.app.goo.gl/uEAeyvKzcdE98YzH6'},
-                {lat: 51.52825, lng:-0.05124, title: 'Mandala Café Bethnal Green', url: 'https://maps.app.goo.gl/wEsaZPveNPTYUjMj6'},
-                {lat: 37.75923, lng:-122.41131, title: 'Sightglass Coffee', url: 'https://maps.app.goo.gl/7GJyDJ3rooBEintdA'},
-                {lat: 33.71397, lng:-117.83626, title: 'Rye Goods', url: 'https://maps.app.goo.gl/nV1uUUVhjwWBHcdC8'},
-                {lat: 52.5437455, lng:13.4161832, title: 'Firstcrack Coffee Roasters & Cafe Pakolat Berlin', url: 'https://maps.app.goo.gl/nAzpY7ETQuRK5twK6'}
+                {lat:40.75119590319461, lng:-74.00342581380743, title: 'Central Rock Gym', url: 'https://maps.app.goo.gl/JgAws6VF6QCZ1kUQ7'},
+                {lat:40.74873291705909, lng:-73.94872796756484, ctitle: 'The Cliffs', url: 'https://maps.app.goo.gl/pXNccy9b3eQVTKNH8'},
+                {lat:40.752738000932354, lng:-73.94001630160022, title: 'Brooklyn Boulders Queensbridge', url: 'https://maps.app.goo.gl/jMwHDnQ9ww28rDHD9'},
+                {lat:28.686772802776233, lng:-81.34616391000415, title: 'Aiguille Rock Climbing Center', url: 'https://maps.app.goo.gl/tySdTFBmPXkAzRyW8'},
+                {lat:24.144196339480462, lng:120.69448969412322, title: '攀吶攀岩館', url: 'https://maps.app.goo.gl/7MnLsXzUFWi4GK2i9'},
+                {lat:51.58089364412473, lng:-0.3442349719940664, title: 'HarroWall Climbing Centre', url: 'https://maps.app.goo.gl/5WvHfYn6uPp767Vj6'},
+                {lat:51.56775378207142, lng:-0.07704166254655098, title: 'The Castle Climbing Centre', url: 'https://maps.app.goo.gl/V9LE3z4GZE4sRhwT6'},
+                {lat:51.52554643987564, lng:-0.13557784987983426, title: 'EustonWall Climbing Centre', url: 'https://maps.app.goo.gl/8YtuPuUrd3KwZqEq5'},
+                {lat:51.48632749375515, lng:-0.11418588763088897, title: 'VauxWall West Climbing Centre', url: 'https://maps.app.goo.gl/r2MyB4KmSm6m3LZRA'},
+                {lat:51.49395604376262, lng:-0.11438036001497026, title: 'VauxWall East Climbing Centre', url: 'https://maps.app.goo.gl/J2yVTyhpNgdfiWU48'},
+                {lat:51.494803581428386, lng:-0.06342859112015226, title: 'Arch Climbing Wall: Surrey Quays', url: 'https://maps.app.goo.gl/3ckDsoEqouVWSUuU8'},
+                {lat:51.51562384747337, lng:-0.06576225972912811, title: 'Aldgate City Bouldering', url: 'https://maps.app.goo.gl/hEzLwapi2DhrGaEv8'},
+                {lat:51.52929239532223, lng:-0.04855420721743131, title: 'Bethwall Green Climbing Centre', url: 'https://maps.app.goo.gl/J7GnEXrhRJEMghqM7'},
+                {lat:51.52929710067857, lng:-0.038536127371241166, title: 'Mile End Climbing Wall', url: 'https://maps.app.goo.gl/69V1ZgwVCqVFy9Tm9'},
+                {lat:51.5121269925561, lng:-0.020872273062558407, title: 'CanaryWall Climbing Centre', url: 'https://maps.app.goo.gl/L8mTVEz4LMRHqZvn9'},
+                {lat:51.512233825711434, lng:0.014489968315219023, title: 'Rise Climbing', url: 'https://maps.app.goo.gl/RZHapfBVG5LNVc18A'}, 
+                {lat:51.49607129122862, lng:0.049542454630720725, title: 'The Reach Climbing Wall', url: 'https://maps.app.goo.gl/oTLiQ86r8pVtLifv9'}
             ];
 
             var mapPinIcon = {
-                url: 'https://i.imgur.com/Z28UjDn.png',
+                url: 'https://i.imgur.com/g2HbsYD.png',
                 scaledSize: new google.maps.Size(40, 40),
                 origin: new google.maps.Point(0, 0),
                 anchor: new google.maps.Point(20, 40)
