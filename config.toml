@@ -117,19 +117,19 @@ paginate     = 10
       logoCursorAnimate  = "2s"
 
   [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "/posts"
+    weight     = 20
+
+  [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "about/"
-    weight     = 10
-
-  [[menu.main]]
-    identifier = "posts"
-    name = "▼ Posts"
-    url = "/posts"
 
   [[menu.main]]
     identifier = "all"
-    name       = "All posts"
+    name       = "All"
     url        = "/posts"
     weight     = 10
     parent     = "posts"
