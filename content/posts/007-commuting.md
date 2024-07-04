@@ -1,12 +1,12 @@
 +++
 title = "🚇 Climbing diary #5: Heart of Darkness"
-description = "It's not about where you come from, it's about where you're headed. In no way is that more true than my low-key adventure under the Thames."
+description = "It's not where you come from, it's where you're headed, and in no way is that more true than my low-key adventure under the Thames."
 type = ["posts","post"]
 tags = [
     "climbing",
     "diary"
 ]
-date = "2024-07-03"
+date = "2024-07-04"
 categories = []
 series = ["Questionable Beta"]
 [ author ]
