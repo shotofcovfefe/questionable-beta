@@ -17,24 +17,23 @@ The Central Line offends every fiber of my being.
 
 Of London's vast array of tube lines, it's at once: the [hottest](https://www.timeout.com/london/news/revealed-these-are-officially-londons-hottest-tube-lines-090123), most [polluted](https://metro.co.uk/2019/11/05/central-line-officially-dirtiest-tube-toxic-miasma-skin-dust-11044450), the [busiest](https://citymonitor.ai/transport/which-london-underground-line-busiest-3315), and the second [loudest](https://www.bbc.co.uk/news/uk-england-london-62449774). It's a sultry experience begrudgingly shared by a sultry crowd. Too often have I found myself trapped between a swell of people and the grimy metal skin of a downturned train door, inhaling a toxic stew of dead cells and dirt. It also happens to be my new daily commute[^1]. 
 
-
-<!-- In a stange way, it's life affirming -->
-
 The Central Line is utterly loathsome. But it's far from the only place in London. 
 
 Case in point.
 
-Some time ago, a troll posting on an internet forum blithely suggested, alongisde a list of *real* touristy things, that walking the length of the Rotherhithe Tunnel was "an absolute must" for anyone visiting London. I've long since favoured scouting out 'off the beaten track' 'hidden gems' over their more well trodden counterparts ([Atlas Obscura](https://www.atlasobscura.com/), ilysfm), and as fate would have it the Rotherhithe tunnel was right on my doorstep. Boom.
+Some time ago, a troll posting on an internet forum blithely suggested, alongisde a list of *real* touristy things, that walking the length of the Rotherhithe Tunnel was "an absolute must" for anyone visiting London. For those not in the know, it's a tunnel used primarily for wheeled vehicles that takes folks between Limehouse, under the Thames, to Rotherhithe on the South side. It features a pedestrian walkway. I've long since favoured scouting out 'off the beaten track' 'hidden gems' over their more well trodden counterparts ([Atlas Obscura](https://www.atlasobscura.com/), ilysfm), and as fate would have it the Rotherhithe tunnel was right on my doorstep. Boom.
 
 Gleefully, I floated the idea to a friend who turned out to be just as gullible as me. Double boom.
 
-We packed our bags and descended naively into the dank, tubular cavern below the Thames. It was everything we thought it would be... that is, if we had given the odyssey in question any thought whatsoever.
+We packed our bags and descended naively into the dank, tubular cavern from the North side, waving goodbye to sunny skies and entering into the belly of artifical light below the Thames. The Victorians designed the tunnel to include curves at either end so horses couldn't see natural light at either end, reducing the chance that they'd bolt. 
 
-It's perhaps the only time I've known the taste of real, actual, intense pollution. The merry family of Central Line pollutants on high dose steroids. I vividly recall an itchy throat, the metallic stench of petrol and diesel, and a thin, greasy lining of soot forming on the surface of my face. 
+It was everything one might think it would be. Unfortunately, we gave the odyssey in question zero thought whatsoever.
+
+It's perhaps the only time I've known the taste of real, actual, intense pollution. The merry family of Central Line pollutants on high dose steroids. I vividly recall the heaviness of the air. I had an itchy throat, and the metallic stench of petrol and diesel filled my nostrils. A thin, greasy lining of soot forming on the surface of my face. 
 
 We almost immediately realised this was one of those dumb ideas that shouldn't have made it past the drawing board. But, due to some combination of embarrassment to suggest quitting and stubborn male bravado, we persisted. Adventure -- amongst other more sinister things -- was in the air.
 
-By the time we decided to turn back, a sign indicated we'd hit 741 meters, or: halfway. Onwards we went and through the otherside to freedom. Despite the venture surely bringing any natural death forward by some number of days, it was a hilarious lesson in not believing everything you read online. 
+By the time we decided to turn back, a sign indicated we'd gone past ~800 yards, or: halfway. Onwards we went and through the otherside to freedom. Despite the venture surely bringing any natural death forward by some number of days, it was a hilarious lesson in not believing everything you read online. 
 
 You're probably wondering, how does this relate to climbing? Is all this some overdrawn prelude prior to preaching about the adverse health impact of chalk particulate matter endemic to indoor climbing gyms? Actually, no. At least, not yet.
 
