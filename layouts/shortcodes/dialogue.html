@@ -1,0 +1,72 @@
+{{ $text := .Get "text" }}
+{{ $lines := split $text "<nl>" }}
+{{ $speakers := slice "speaker1" "speaker2" }}
+{{ $index := 0 }}
+
+<div class="dialogue">
+    {{ range $lines }}
+    {{ if ne . "" }}
+      {{ $speaker := index $speakers (mod $index 2) }}
+      <div class="dialogue-item {{ $speaker }}">
+        <div class="dialogue-avatar {{ $speaker }}"></div>
+        <div class="dialogue-content">{{ . | markdownify }}</div>
+      </div>
+      {{ $index = add $index 1 }}
+    {{ end }}
+  {{ end }}
+</div>
+
+
+<style>
+ .dialogue {
+  max-width: 600px;
+  margin: auto;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.dialogue-item {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.dialogue-item.speaker1 {
+  flex-direction: row;
+}
+
+.dialogue-item.speaker2 {
+  flex-direction: row-reverse;
+}
+
+.dialogue-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-size: cover;
+  margin: 0 10px;
+}
+.dialogue-avatar.speaker1 {
+  background-image: url('https://static.vecteezy.com/system/resources/previews/036/444/740/original/ai-generated-cute-tortoise-cartoon-illustration-for-kids-on-transparent-background-free-png.png'); /* Replace with the actual path */
+}
+
+.dialogue-avatar.speaker2 {
+  background-image: url('https://png.pngtree.com/png-vector/20220606/ourmid/pngtree-cartoon-bee-honey-bumble-cute-png-image_4871857.png'); 
+}
+
+.dialogue-content {
+  background-color: #333;
+  color: #fff;
+  border-radius: 10px;
+  padding: 10px;
+  position: relative;
+  max-width: 70%;
+}
+
+.dialogue-item.speaker1 .dialogue-content {
+  border-radius: 10px 10px 10px 0;
+}
+
+.dialogue-item.speaker2 .dialogue-content {
+  border-radius: 10px 10px 0 10px;
+}
+</style>

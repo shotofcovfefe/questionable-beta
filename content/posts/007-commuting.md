@@ -13,7 +13,6 @@ series = ["Questionable Beta"]
   name = "Andy"
 +++
 
-
 The Central Line offends every fiber of my being. 
 
 Of London's vast array of tube lines, it's at once: the [hottest](https://www.timeout.com/london/news/revealed-these-are-officially-londons-hottest-tube-lines-090123), most [polluted](https://metro.co.uk/2019/11/05/central-line-officially-dirtiest-tube-toxic-miasma-skin-dust-11044450), the [busiest](https://citymonitor.ai/transport/which-london-underground-line-busiest-3315), and the second [loudest](https://www.bbc.co.uk/news/uk-england-london-62449774). It's a sultry experience begrudgingly shared by a sultry crowd. Too often have I found myself trapped between a swell of people and the grimy metal skin of a downturned train door, inhaling a toxic stew of skin and dirt. It also happens to be my new daily commute[^1]. 
@@ -44,9 +43,8 @@ This storied quest through the tunnel happens to be the same day I went boulderi
 (Though, apparently not my first time _climbing_ as this picture evidences. Just look at 12 year old me absolutely rocking some classic Converse. To think I just bought [new climbing shoes]({{< ref "/posts/006-climbing-shoes/" >}}) when I could've pulled these from the top drawer).
 
 
+{{< image-center-large src="/climbing-first-time.jpeg" alt="First time climbing" >}}
 
-
-{{< image-center-large src="/climbing-first-time.jpeg" alt="Scarpa Force V" >}}
 
 Not so far from the other side of said tunnel is the Arch Climbing Wall in Bermondsey, which in a past life played residence to the art of one Damien Hirst. A great space. A little hot during summer days and a little cool in winter. But nonetheless.
 
@@ -56,9 +54,22 @@ Or rather, I remember my utter glee bouncing up and down the wall. I remember th
 
 It was the bees knees, and I wanted in.
 
+---
 
+Now that's out the way, here's the educational part.[^3] [^4] [^5] [^6] [^7]
 
+{{< dialogue text="Just how polluted _is_ London Undergound?<nl>It depends! Old, deep tube lines like the Central, Northern, and Victoria lines are the worst offenders.<nl>Right. How bad are they really?<nl>Pollution takes many forms. One is PM2.5 (a _super tiny_ Particulate Matter that penetrates deep in the lungs). Some parts of the Underground expose you to 20x \"typical\" roadside air. It's estimated >9000 Londoners die prematurely as a result.<nl>That's awful. Good thing I only hang out in climbing gyms.<nl>Not so fast. A study from 2012 showed that climbing gyms PM2.5 concentration can be even worse! Long term effects are unclear as climbing gyms only started popping up in the late 1980's, but exposure can cause lung irritation and pulmonary problems.<nl>Do you think climbing gyms are more badly polluted than the underground then?!<nl>No! Pollution is a loaded term and there different particulates have different effects. Particulate matters (PMx), VOCs, metalic particles, NO2, CO2, etc. Parts of the underground are almost certainly more damaging to you than in the long run than climbing gyms.<nl>Still scary though, should I stop climbing forever?!<nl>Of course not! Just make sure to climb in modern gyms with powerful filtering systems, consider using liquid chalk, or do what the author of this blog isn't cool enough to and go climb outdoors instead.<nl>Thanks little 🐝<nl>Thank you Monsieur 🐢" >}}
 
 [^1]: Here's to re-appropriating PTSD to instead stand for `Public Transit Stress Disorder`. 
 
 [^2]: Editors note, he's done one super soft v7 and won't shut up about it.
+
+[^3]: UK Gov (2018) | [Comittee on the medical effects of Air Pollutants](https://assets.publishing.service.gov.uk/media/5c3472d5ed915d730928e41e/COMEAP-2018-04_WORKING_PAPER_2.pdf)
+
+[^4]: Heather Ann Walton et al. (2015) | [Understanding the Health Impacts of Air Pollution in London](https://kclpure.kcl.ac.uk/portal/en/publications/understanding-the-health-impacts-of-air-pollution-in-london) 
+
+[^5]: Financial Times (2019) | [London Underground: the dirtiest place in the city](https://www.ft.com/content/6f381ad4-fef7-11e9-be59-e49b2a136b8d)
+
+[^6]: Stephan Weinbruch et al. (2012) | [Reducing dust exposure in indoor climbing gyms](https://pubmed.ncbi.nlm.nih.gov/22767051/)
+
+[^7]: Berkley Almand-Hunter et al. (2014) [Dust exposure in indoor climbing facilities](https://asac.nl/wp-content/uploads/2020/02/DUST-EXPOSURE-IN-INDOOR-CLIMBING-FACILITIES.pdf)
