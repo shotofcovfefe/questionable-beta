@@ -27,11 +27,11 @@ I've long since favoured pursuing 'off the beaten track' 'hidden gems' over thei
 
 Gleefully, I floated the idea to a friend who turned out to be just as gullible as me. Double boom.
 
-We packed our bags and descended naively into the dank, tubular cavern from the North side, waving goodbye to sunny skies and entering into the belly of artifical light below the Thames. The Victorians designed the tunnel to include curves at either end so horses couldn't see natural light at either end, reducing the chance that they'd bolt. 
+We packed our bags and descended naively into the dank, tubular cavern from the North side, waving goodbye to sunny skies and entering into the belly of artifical light below the Thames. The Victorians designed the tunnel to include curves at either end. The logic was that horses wouldn't bolt on seeing natural sunlight (i.e, an escape route). 
 
 It was everything one might think it would be. Unfortunately, we gave the odyssey in question zero thought whatsoever.
 
-It's perhaps the only time I've known the taste of real, actual, intense pollution. The merry family of Central Line pollutants on high dose steroids. I vividly recall the heaviness of the air. I had an itchy throat, and the metallic stench of petrol and diesel filled my nostrils. A thin, greasy lining of soot forming on the surface of my face. 
+It's perhaps the only time I've known the taste of intense pollution. Like the merry family of Central Line pollutants but on high dose steroids. I vividly recall the heaviness of the air, the vulnerability of my throat and lungs, the metallic stench of petrol and diesel strangling my nasal cavaties into light headed submission. A thin, greasy lining of soot formed deadpan on the surface of my face and arms. 
 
 We almost immediately realised this was one of those dumb ideas that shouldn't have made it past the drawing board. But, due to some combination of embarrassment to suggest quitting and stubborn male bravado, we persisted. Adventure -- amongst other more sinister things -- was in the air.
 
