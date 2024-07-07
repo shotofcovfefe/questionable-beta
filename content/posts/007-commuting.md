@@ -21,7 +21,9 @@ The Central Line is utterly loathsome. But it's far from the only place in Londo
 
 Case in point.
 
-Some time ago, a troll posting on an internet forum blithely suggested, alongisde a list of *real* touristy things, that walking the length of the Rotherhithe Tunnel was "an absolute must" for anyone visiting London. For those not in the know, it's a tunnel used primarily for wheeled vehicles that takes folks between Limehouse, under the Thames, to Rotherhithe on the South side. It features a pedestrian walkway. I've long since favoured scouting out 'off the beaten track' 'hidden gems' over their more well trodden counterparts ([Atlas Obscura](https://www.atlasobscura.com/), ilysfm), and as fate would have it the Rotherhithe tunnel was right on my doorstep. Boom.
+Some time ago, a troll posting on an internet forum blithely suggested, alongisde a list of *real* touristy things, that walking the length of the Rotherhithe Tunnel was "an absolute must" for anyone visiting London. For those not in the know, it's a tunnel for vehicles between Limehouse on the north side, south to Rotherhithe. There's a pedestrian walkway on one side.
+
+I've long since favoured pursuing 'off the beaten track' 'hidden gems' over their more well trodden counterparts ([Atlas Obscura](https://www.atlasobscura.com/), ilysfm), and as fate would have it, the Rotherhithe tunnel was right on my doorstep. Boom.
 
 Gleefully, I floated the idea to a friend who turned out to be just as gullible as me. Double boom.
 
