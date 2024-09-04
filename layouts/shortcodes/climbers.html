@@ -1,0 +1,289 @@
+
+
+
+
+<pre id="ascii-container" style="overflow: hidden; width: 100%; min-height: 200px; height: 100%; overflow: hidden; position:center; margin: 0; padding: 0; font-family: monospace;"></pre>
+
+<script>
+
+    var AsciiMorph=function(){"use strict";function f(a,b){for(var c in b)c in a||(a[c]=b[c]);return a}function g(a,b){if(b<1)return"";for(var c="";b>1;)1&b&&(c+=a),b>>=1,a+=a;return c+a}function h(a,b,c){return a.substr(0,b)+c+a.substr(b+c.length)}function i(c,d){a=c,b=d}function j(a){var c,d={x:0,y:a.length};for(c=0;c<a.length;c++)a[c].length>d.x&&(d.x=a[c].length);for(c=0;c<a.length;c++)a[c].length<d.x&&(a[c]=a[c]+g(" ",d.x-a[c].length));for(var e={x:Math.floor((b.x-d.x)/2),y:Math.floor((b.y-d.y)/2)},c=0;c<a.length;c++)a[c]=g(" ",e.x)+a[c]+g(" ",e.x);for(var c=0;c<b.y;c++)c<e.y?a.unshift(g(" ",b.x)):c>e.y+d.y&&a.push(g(" ",b.x));return a}function k(a){for(var b,c=null,d=!1,e=0;e<a.length;e++){var f=a[e];b=f.search(/\S/),b===-1&&(b=null);for(var g=0;g<f.length;g++)" "!=f[g]&&(c=g);null!==b&&null!==c&&(a=l(a,e,b,c),d=!0),b=null,c=null}return!!d&&a}function l(a,c,d,e){var f={x:Math.floor(b.x/2),y:Math.floor(b.y/2)},g=1;c>f.y&&(g=-1);a[c][d],a[c][e];return a[c]=h(a[c],d," "),a[c]=h(a[c],e," "),e-1!=d+1&&d!==e&&d+1!==e?(a[c+g]=h(a[c+g],d+1,"+*/\\".substr(Math.floor(Math.random()*"+*/\\".length),1)),a[c+g]=h(a[c+g],e-1,"+*/\\".substr(Math.floor(Math.random()*"+*/\\".length),1))):d!==e&&d+1!==e||c+1===f.y||c-1===f.y||c===f.y||(a[c+g]=h(a[c+g],d,"+*/\\".substr(Math.floor(Math.random()*"+*/\\".length),1)),a[c+g]=h(a[c+g],e,"+*/\\".substr(Math.floor(Math.random()*"+*/\\".length),1))),a}function m(a){var b=j(a.slice());n(b)}function n(b){a.innerHTML="";for(var d=0;d<b.length;d++)a.innerHTML=a.innerHTML+b[d]+"\n";c=b}function o(a){clearTimeout(e);var b=p(a.slice());q(b)}function p(a){for(var b=[],d=[],e=c,f=0;f<100;f++){var g=k(e);if(g===!1)break;b.push(g.slice(0)),e=g}var h=j(a);d.unshift(h.slice(0));for(var f=0;f<100;f++){var g=k(h);if(g===!1)break;d.unshift(g.slice(0)),h=g}return b.concat(d)}function q(a){d=a,r()}function r(){e=setTimeout(function(){n(d[0]),d.shift(),d.length>0&&r()},50)}function s(a,b){return a&&b?void i(a,b):void console.log("sorry, I need an element and a canvas size")}var a=null,b={},c=[],d=[],e=null;return f(s,{render:m,morph:o})}();
+
+    climber = [
+    "⠀⠀⠀⠀⠀⢀⡀⠀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⡀⠀",
+    "⠀⠀⠀⠀⠀⠈⠳⡄⠈⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀",
+    "⠀⠀⠀⠀⠀⠀⠀⠘⢦⠀⠀⠉⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀",
+    "⠀⠀⠀⠀⠀⠀⠀⠀⠈⢳⡀⢠⣆⠀⠙⢿⣏⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀",
+    "⠀⠀⠀⠀⠀⠀⢠⣤⣤⡀⠙⠘⣿⠀⠀⠀⠈⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀",
+    "⠀⠀⠀⠀⠀⠀⠘⠿⣿⡿⠀⣠⣿⡆⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⡇⠀",
+    "⠀⠀⠀⠀⠀⠀⠀⠀⢠⣴⣾⣿⠋⠀⠀⠀⣀⣄⠀⠀⠀⠀⠈⢿⣿⣿⣿⣿⡇⠀",
+    "⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⡦⠀⣠⣾⣿⣿⣿⣦⣴⡟⠀⠀⣿⣿⣿⣿⡇⠀",
+    "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⡟⢠⠀⣿⣿⣿⣁⡈⠉⠛⠁⠀⠀⣿⣿⣿⣿⡇⠀",
+    "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠏⢰⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⢸⣿⣿⣿⡇⠀",
+    "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⠀⠈⠻⣿⣄⣀⠀⠀⠸⣿⣿⣿⡇⠀",
+    "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⠀⠀⠀⠘⠛⠋⠁⠀⠀⣿⣿⣿⡇⠀",
+    "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⡇⠀",
+    "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡇⠀",
+    "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠁⠀"
+    ];
+
+  var qb = ["Questionable Beta"];
+
+  var container = document.getElementById('ascii-container');
+  
+  console.log(container.clientWidth)
+  console.log(container.clientHeight)
+
+  var canvasSize = { x: container.clientWidth / 10, y: 20 }; // Adjust these values as needed
+
+    const updateSize = () => {
+        const rect = container.getBoundingClientRect();
+        return { width: rect.width, height: rect.height };
+    };
+
+    let { width, height } = updateSize();
+
+    console.log(width, height);
+
+
+    AsciiMorph(container, canvasSize);
+    AsciiMorph.render(climber);
+    AsciiMorph.morph(qb);
+
+  // Set a timeout to start the climbers after the morph animation
+  setTimeout(function() {
+    startDynamicAsciiClimbers();
+  }, 3000); // Adjust this timeout based on the morph duration
+  
+
+  function startDynamicAsciiClimbers() {
+    // Your existing climber code here
+    const updateSize = () => {
+      const rect = container.getBoundingClientRect();
+      return { width: rect.width, height: rect.height };
+    };
+
+    let { width, height } = updateSize();
+    window.addEventListener('resize', () => {
+      ({ width, height } = updateSize());
+    });
+
+    const cols = Math.floor(width / 10);
+    const rows = Math.floor(height / 15);
+    let boulderingWall = generateBoulderingWall(cols, rows);
+
+    const numClimbers = 10;
+    let climbers = Array.from({ length: numClimbers }, () => ({
+      x: Math.floor(Math.random() * cols),
+      y: rows - 4,
+      directionBias: 0,
+      frameIndex: Math.floor(Math.random() * 5),
+      pauseCounter: 0, 
+      frameCounter: 0, 
+      frameDelay: Math.floor(Math.random() * (1000 / 20 - 1000 / 35 + 1)) + 1000 / 35, 
+      falling: false, 
+      stopped: false  
+    }));
+
+    const backgroundFrameDelay = 10;
+    let frameCounter = 0;
+
+    const climberFrames = [
+      `●_
+/_
+ \\`,
+      `●_
+ \\/\\`,
+      `_●_
+ [
+ /\\`,
+      `|●|
+ |
+ \\\\`,
+      `_●|
+ |
+ \\\\`,
+      `_●
+ |\\
+/ >`,
+      `\\●/
+ )/  
+/`
+    ];
+
+    const detectionRadius = 7;
+
+    const estimateCharacterSize = () => {
+      const testElement = document.createElement('span');
+      testElement.style.position = 'absolute';
+      testElement.style.whiteSpace = 'nowrap';
+      testElement.style.fontFamily = 'monospace';
+      testElement.textContent = 'M';
+      document.body.appendChild(testElement);
+      const characterWidth = testElement.offsetWidth;
+      const characterHeight = testElement.offsetHeight;
+      document.body.removeChild(testElement);
+      return { characterWidth, characterHeight };
+    };
+
+    const { characterWidth, characterHeight } = estimateCharacterSize();
+
+    const handleInteraction = (event) => {
+      const rect = container.getBoundingClientRect();
+      let clickX, clickY;
+
+      if (event.type === 'click') {
+        clickX = Math.floor((event.clientX - rect.left) / characterWidth);
+        clickY = Math.floor((event.clientY - rect.top) / characterHeight);
+      } else if (event.type === 'touchstart') {
+        const touch = event.touches[0];
+        clickX = Math.floor((touch.clientX - rect.left) / characterWidth);
+        clickY = Math.floor((touch.clientY - rect.top) / characterHeight);
+      }
+
+      climbers.forEach((climber) => {
+        const headY = climber.y;
+        const headX = climber.x;
+
+        const distance = Math.sqrt(Math.pow(clickX - headX, 2) + Math.pow(clickY - headY, 2));
+
+        if (!climber.stopped && !climber.falling && distance <= detectionRadius) {
+          climber.falling = true;
+        }
+      });
+    };
+
+    container.addEventListener('click', handleInteraction);
+    container.addEventListener('touchstart', handleInteraction);
+
+    const intervalId = setInterval(() => {
+      let { width, height } = updateSize();
+      const cols = Math.floor(width / 10);
+      const rows = Math.floor(height / 15);
+
+      let content = boulderingWall.slice();
+
+      if (frameCounter % (backgroundFrameDelay * 2) === 0) {
+        boulderingWall = updateBoulderingWall(boulderingWall, 0.05);
+      }
+
+      climbers.forEach((climber) => {
+        const climberFrame = climberFrames[climber.frameIndex % climberFrames.length];
+        const climberLines = climberFrame.split('\n');
+
+        if (!climber.stopped) {
+          if (!climber.falling) {
+            if (climber.pauseCounter > 0) {
+              climber.pauseCounter--;
+            } else {
+              for (let i = 0; i < climberLines.length; i++) {
+                if (climber.y + i < rows) {
+                  let rowPart = content[climber.y + i];
+                  if (rowPart) {
+                    rowPart = rowPart.substring(0, climber.x) + climberLines[i] + rowPart.substring(climber.x + climberLines[i].length);
+                    content[climber.y + i] = rowPart;
+                  }
+                }
+              }
+
+              if (climber.frameCounter++ >= climber.frameDelay) {
+                climber.frameCounter = 0;
+
+                if (Math.random() > 0.5) {
+                  climber.directionBias += Math.random() > 0.5 ? 1 : -1;
+                }
+
+                const moveType = Math.random();
+
+                if (moveType < 0.1) {
+                  climber.pauseCounter = 1;
+                } else if (moveType < 0.3) {
+                  climber.y = (climber.y - 2 + rows) % rows;
+                } else if (moveType < 0.5) {
+                  climber.x += climber.directionBias > 0 ? 1 : -1;
+                  climber.x = Math.max(0, Math.min(cols - 1, climber.x));
+                } else {
+                  if (climber.directionBias > 1 && climber.x < cols - 1) {
+                    climber.x++;
+                    climber.y = (climber.y - 1 + rows) % rows;
+                  } else if (climber.directionBias < -1 && climber.x > 0) {
+                    climber.x--;
+                    climber.y = (climber.y - 1 + rows) % rows;
+                  } else {
+                    climber.y = (climber.y - 1 + rows) % rows;
+                  }
+                }
+
+                climber.directionBias *= 0.9;
+                climber.frameIndex++;
+              }
+            }
+          } else {
+            for (let i = 0; i < climberLines.length; i++) {
+              if (climber.y + i < rows) {
+                let rowPart = content[climber.y + i];
+                if (rowPart) {
+                  rowPart = rowPart.substring(0, climber.x) + climberLines[i] + rowPart.substring(climber.x + climberLines[i].length);
+                  content[climber.y + i] = rowPart;
+                }
+              }
+            }
+
+            climber.y++;
+            if (climber.y >= rows - climberLines.length) {
+              climber.falling = false;
+            }
+          }
+        }
+      });
+
+      frameCounter++;
+
+      container.textContent = content.join('\n');
+    }, 1000 / 30);
+  }
+
+  function generateBoulderingWall(cols, rows) {
+    const symbols = ['•', '▲', '✦', '¤'];
+    let wall = [];
+    let holdCount = 0;
+
+    for (let y = 0; y < rows; y++) {
+      let row = '';
+      for (let x = 0; x < cols; x++) {
+        if (Math.random() > 0.85) {
+          const symbol = symbols[Math.floor(Math.random() * symbols.length)];
+          row += symbol;
+          holdCount++;
+        } else {
+          row += ' ';
+        }
+      }
+      wall.push(row);
+    }
+
+    initialHolds = holdCount;  // Store the initial number of generated holds
+    return wall;
+  }
+
+  function updateBoulderingWall(wall, disappearPercent = 0.01, minHolds = 5) {
+    const currentHolds = wall.reduce((count, row) => count + row.split('').filter(char => char !== ' ').length, 0);
+    const holdThreshold = Math.floor(0.32 * initialHolds);
+
+    if (currentHolds > holdThreshold) {
+      const holdsToDisappear = Math.min(Math.max(1, Math.floor(currentHolds * disappearPercent)), currentHolds - minHolds);
+
+      let disappearedHolds = 0;
+      while (disappearedHolds < holdsToDisappear) {
+        const y = Math.floor(Math.random() * wall.length);
+        const x = Math.floor(Math.random() * wall[y].length);
+
+        if (wall[y][x] !== ' ') {
+          wall[y] = wall[y].substring(0, x) + ' ' + wall[y].substring(x + 1);
+          disappearedHolds++;
+        }
+      }
+    }
+
+    return wall;
+  }
+  </script>
