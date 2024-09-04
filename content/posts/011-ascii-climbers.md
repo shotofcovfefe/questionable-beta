@@ -13,11 +13,11 @@ series = ["Questionable Beta"]
   name = "Andy"
 +++
 
-What's life without making something utterly useless every so often? Making dumb artefacts like this satiates creative freedom in a way that "serious" work wishes it could. 
+What's life without making something utterly useless every now and then? Making dumb artefacts like this satiates creative freedom in a way that "serious" work wishes it could. 
 
-Try clicking on the little climber dudes as they acend graciously into constellations unknown. 
+Try clicking on the little climber dudes and dudettes as they acend graciously into constellations of jugs and crimps and slopers unknown. 
 
-\<backstory>. Trains are tedious. \<\/backstory>
+\<backstory>Trains are tedious.\<\/backstory>
 
 
 {{< climbers >}}
